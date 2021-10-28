@@ -1,4 +1,4 @@
-[![Header](https://williens.com/IMG_171333.jpg)](https://suyt.tech)
+![IMG_171333](https://user-images.githubusercontent.com/86553305/139216189-9ccf06eb-8e74-4db9-b2fa-7c24d0e37490.jpg)
 
 **Languages I have used**
 
