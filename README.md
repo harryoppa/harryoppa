@@ -15,6 +15,13 @@
 
 **Some of the technologies I have worked with**
 
+[![next-dot-js](https://img.shields.io/badge/nextjs-ssr-000000.svg?logo=vercel)](https://nextjs.org/)
+[![React-lib](https://img.shields.io/badge/React-hooks-61DAFB.svg?logo=react)](https://reactjs.org/)
+[![Storybook](https://img.shields.io/badge/storybook-ui-ff4785.svg?logo=storybook)](https://storybook.js.org/)
+[![styled-components-style](https://img.shields.io/badge/%F0%9F%92%85%20styled--components-CssInJs-orange.svg)](https://github.com/styled-components/styled-components)
+[![Codesandobx-IDE](https://img.shields.io/badge/Codesandbox-IDE-000000.svg?logo=codesandbox)](https://codesandbox.io/)
+[![I-love-VSCode](https://img.shields.io/badge/I%20love-VSCode-007ACC.svg?logo=visual-studio-code)](https://code.visualstudio.com/)
+
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=FFFFFF)
 ![Jira](https://img.shields.io/badge/-Jira-000000?style=flat&logo=jira-software&logoColor=white&logoColor=0052CC)
